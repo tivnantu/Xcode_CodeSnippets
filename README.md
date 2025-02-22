@@ -149,7 +149,7 @@ git pull origin master
 
 *Other*
 - `pragma` - 展开一个用于 Xcode 导航的 `#pragma mark -` 宏
-- `log` - 展开 `NSLog(@"xxx")`
+- `log` - 展开 `NSLog(@"tadebug xxx")`
 - `osif` - 展开一个 @available(iOS xxx, \*) 的 if 判断
 - `externRefInH` - 在 `*.h` 文件里声明一个 `extern const` 的指针
 - `externRefInM` - 在 `*.m` 文件里为一个 `extern const` 的指针赋值

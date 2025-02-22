@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSLog(@"&lt;##&gt;");</string>
+	<string>NSLog(@"tadebug &lt;##&gt;");</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5DD6260F-35C7-46BA-A7FD-B0FD4B55BCE2</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSLog(@"Call Stack: %@", [NSThread callStackSymbols]);</string>
+	<string>NSLog(@"tadebug Call Stack: %@", [NSThread callStackSymbols]);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9CDCCD18-A33D-48DF-8363-F028E1465EC2</string>
 	<key>IDECodeSnippetLanguage</key>
