@@ -14,14 +14,15 @@ Xcode 的 Code Snippets 文件存放于 `~/Library/Developer/Xcode/UserData/Code
 
 为了方便更新，建议直接将 QMUI iOS CodeSnippets clone 到这个目录内（注意，不是在 CodeSnippets 里创建一个 QMUI 的目录，这里不支持子目录）：
 ```bash
-cd ~/Library/Developer/Xcode/UserData/CodeSnippets
+cd ~/Library/Developer/Xcode/UserData
 ```
 CodeSnippets 目录为空:
 ```bash
-git clone https://github.com/tivnantu/Xcode_CodeSnippets.git ./
+git clone https://github.com/tivnantu/Xcode_CodeSnippets.git CodeSnippets
 ```
 CodeSnippets 目录不为空:
 ```bash
+cd ~/Library/Developer/Xcode/UserData/CodeSnippets
 git init .
 git remote add origin https://github.com/tivnantu/Xcode_CodeSnippets.git
 git pull origin master 
