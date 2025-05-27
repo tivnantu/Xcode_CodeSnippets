@@ -18,13 +18,13 @@ cd ~/Library/Developer/Xcode/UserData
 ```
 CodeSnippets 目录为空:
 ```bash
-git clone https://github.com/tivnantu/Xcode_CodeSnippets.git CodeSnippets
+git clone git@github.com:tivnantu/Xcode_CodeSnippets.git CodeSnippets
 ```
 CodeSnippets 目录不为空:
 ```bash
 cd ~/Library/Developer/Xcode/UserData/CodeSnippets
 git init .
-git remote add origin https://github.com/tivnantu/Xcode_CodeSnippets.git
+git remote add origin git@github.com:tivnantu/Xcode_CodeSnippets.git
 git pull origin master 
 ```
 
