@@ -1,6 +1,6 @@
 # Xcode_CodeSnippets
 
-**Xcode_CodeSnippets** 是参考 [QMUI/QMUI_iOS_CodeSnippets](https://github.com/QMUI/QMUI_iOS_CodeSnippets) 整理的常用 iOS 开发代码片段。
+**Xcode_CodeSnippets** 是参考 [QMUI/QMUI_iOS_CodeSnippets](https://github.com/QMUI/QMUI_iOS_CodeSnippets) 整理的常用 iOS 开发代码片段，个人使用。
 
 ## 使用方式
 
